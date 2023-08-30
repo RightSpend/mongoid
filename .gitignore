@@ -26,3 +26,5 @@ yard-docs
 gem-private_key.pem
 examples
 .byebug_history
+.ruby-gemset
+.ruby-version
